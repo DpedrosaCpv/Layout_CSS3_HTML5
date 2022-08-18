@@ -12,6 +12,6 @@ Visual Studio Code, Eclipse, Git e GitHub.
 
 ### Bibliotecas utilizadas
 
-Ícones - Font Awesome
+Ícones - Font Awesome<br>
 Fontes - Google Fonts
 
